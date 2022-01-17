@@ -128,8 +128,8 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : DRIPS MEMES
-┣𝕾⃝🌺 *BOT* : MADELINE
+┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : Techno Hemant
+┣𝕾⃝🌺 *BOT* : LinkTrust - Relaxhost
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
 ┣𝕾⃝🌺 *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 ┣𝕾⃝🌺 *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
